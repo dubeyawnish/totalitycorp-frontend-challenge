@@ -30,7 +30,7 @@ This project is an intermediate-level e-commerce website built using React, desi
 ## Technologies Used
 
 - React 
-- HTML5, CSS3, JavaScript ,fakestoreapi
+- HTML5, Bootstrap, JavaScript ,fakestoreapi
 
 
 
